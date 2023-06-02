@@ -1,43 +1,62 @@
 # GhostSec
-
 ## <span style="color:lime">Backend Engineer</span> | <span style="color:lime">Bug Hunter</span> | <span style="color:lime">Information Security Enthusiast</span>
 
-![Profile Banner](https://example.com/banner-image.png)
-
 <div style="background-color: #222222; padding: 20px;">
-    <p style="color: lime;">안녕하세요! 나는 GhostSec입니다. 정보보안에 대한 관심이 많으며, 해킹에 대한 열정과 버그를 찾아내는 능력을 갖춘 백엔드 엔지니어입니다. 주로 다음과 같은 기술과 언어들을 다룹니다:</p>
+    <p style="color: lime;">Hello! I'm GhostSec, a backend engineer with a passion for information security. I enjoy exploring the cyber world with a hacker's mindset and have a knack for hunting down bugs. Here are the technologies and languages I work with:</p>
 
-    - <img src="https://example.com/html-icon.png" alt="HTML" style="vertical-align: middle;"> HTML
-    - <img src="https://example.com/css-icon.png" alt="CSS" style="vertical-align: middle;"> CSS
-    - <img src="https://example.com/js-icon.png" alt="JavaScript" style="vertical-align: middle;"> JavaScript
-    - <img src="https://example.com/php-icon.png" alt="PHP" style="vertical-align: middle;"> PHP
-    - <img src="https://example.com/flask-icon.png" alt="Flask" style="vertical-align: middle;"> Flask
-    - <img src="https://example.com/django-icon.png" alt="Django" style="vertical-align: middle;"> Django
-    - <img src="https://example.com/c-icon.png" alt="C/C++" style="vertical-align: middle;"> C/C++
-    - <img src="https://example.com/csharp-icon.png" alt="C#" style="vertical-align: middle;"> C#
-    - <img src="https://example.com/java-icon.png" alt="Java" style="vertical-align: middle;"> Java
-    - <img src="https://example.com/net-icon.png" alt=".NET" style="vertical-align: middle;"> .NET
-    - <img src="https://example.com/python-icon.png" alt="Python" style="vertical-align: middle;"> Python
-    - <img src="https://example.com/kali-icon.png" alt="Kali Linux" style="vertical-align: middle;"> Kali Linux
-    - <img src="https://example.com/ubuntu-icon.png" alt="Ubuntu" style="vertical-align: middle;"> Ubuntu
-    - <img src="https://example.com/debian-icon.png" alt="Debian" style="vertical-align: middle;"> Debian
-    
-    ### 프로젝트
-    
-    - **자기소개 웹 사이트**: 나에 대한 정보와 포트폴리오를 담은 자기소개 웹 사이트를 개발 중입니다.
-    - **기상정보 안내 웹 사이트**: 실시간 기상 정보를 제공하고 사용자에게 안내하는 웹 사이트를 개발 중입니다.
-    - **랜섬웨어 제작 프로젝트**: 과거에는 랜섬웨어 제작 프로젝트에 참여하여 해당 분야에 경험을 쌓았습니다.
-    
-    ### 기여
-    
-    - [오픈 소스 프로젝트 1](https://github.com/opensource-project-1): 프로젝트에 대한 기여 내용
-    - [오픈 소스 프로젝트 2](https://github.com/opensource-project-2): 프로젝트에 대한 기여 내용
-    - [오픈 소스 프로젝트 3](https://github.com/opensource-project-3): 프로젝트에 대한 기여 내용
-    
-    ### 연락처
-    
-    - 이메일: your-email@example.com
-    - 트위터: <a href="https://twitter.com/your-username" style="color: lime;">@your-username</a>
-    - 블로그: <a href="https://yourblog.com" style="color: lime;">yourblog.com</a>
+   ## Languages and Tools  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
+</div>  
+ChatGPT
+알겠습니다. 다음은 섹션별로 배경과 텍스트 색상을 적용한 코드입니다. 또한, Languages and Tools 섹션에 요청하신 코드도 적용되어 있습니다.
 
+markdown
+Copy code
+## Languages and Tools
+
+<div style="background-color: #000000; color: lime; padding: 20px;">
+  
+  <div style="align: center">
+    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>
+    <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>
+    <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
+    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
+    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
+    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+    <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>
+    <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>
+    <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>
+  </div>
+  
+</div>
+
+
+    ### Projects
+
+    - **Personal Website**: Developing a personal website that showcases information about me and my portfolio.
+    - **Weather Information Web App**: Creating a web application that provides real-time weather information and updates for users.
+    - **Ransomware Development Project**: I have past experience working on a ransomware development project, which helped me gain insights into that field.
 </div>
