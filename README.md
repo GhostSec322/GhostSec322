@@ -1,11 +1,15 @@
 # GhostSec
 
+```&lt;style&gt;
 <style>
 body {
   background-color: black;
   color: lime;
 }
 </style>
+```
+
+
 
 ## About Me
 
