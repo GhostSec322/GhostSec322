@@ -1,5 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GhostSec&fontSize=90)
- Hello, I'm Kim,Min Soub. As an innovation-driven bug hunter, I enjoy tackling problems ranging from small coding glitches to larger challenges. Embracing new technologies, I delight in seeking creative and innovative solutions, exploring new directions within the realm of code. I'm on a journey to make a positive impact and bring about change in the world. Hello World
+ Hello, I'm Kim,Min Soub. As an innovation-driven bug hunter, I enjoy tackling problems ranging from small coding glitches to larger challenges. Embracing new technologies, I delight in seeking creative and innovative solutions, exploring new directions within the realm of code. I'm on a journey to make a positive impact and bring about change in the world.
 
 
 ### MY Skill 
@@ -10,3 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostSec322&show_icons=true&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSec322&layout=compact&theme=dark"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhostSec322%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=tripadvisor.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=backdoor322)](https://solved.ac/backdoor322)
