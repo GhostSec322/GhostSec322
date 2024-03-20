@@ -1,5 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GhostSec&fontSize=90)
- Hello, I'm Kim,Min Soub. As an innovation-driven bug hunter, I enjoy tackling problems ranging from small coding glitches to larger challenges. Embracing new technologies, I delight in seeking creative and innovative solutions, exploring new directions within the realm of code. I'm on a journey to make a positive impact and bring about change in the world.
+ Hello, I'm Kim,Min Soub. As an innovation-driven bug hunter, I enjoy tackling problems ranging from small coding glitches to larger challenges. Embracing new technologies, I delight in seeking creative and innovative solutions, exploring new directions within the realm of code. I'm on a journey to make a positive impact and bring about change in the world. Hello World
 
 
 ### MY Skill 
